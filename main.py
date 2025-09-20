@@ -1,0 +1,7 @@
+print("hello world")
+print("hello salom")
+print("hello men")
+print("hello sen")
+print("hello u")
+print("hello siz")
+print("hello ular")

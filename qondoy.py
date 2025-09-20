@@ -1,1 +1,5 @@
 print("qomdoy bolom")
+print("qomdoy bolom")
+print("qomdoy bolom")
+print("qomdoy bolom")
+print("qomdoy sen")
