@@ -3,5 +3,5 @@ print("qomdoy bolom")
 print("qomdoy bolom")
 print("qomdoy bolom")
 print("qomdoy sen")
-for i in range(10)
+for i in range(10):
     print("HELLO BABY")
